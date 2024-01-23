@@ -1,7 +1,7 @@
 <a name="readme-top">Grade Tracker</a>
 
 <div align="center">
-  <img src="./public/splash-logo.svg" alt="App Logo" width="256"  height="auto" />
+  <img src="./public/gradetracker.png" alt="App Logo" width="256"  height="auto" />
   <br/>
 </div>
 
@@ -23,7 +23,7 @@
 It is a web app that helps teachers keep records of students' grades and tasks, the weightings are set according to
 "ACUERDO Nro. MINEDUC-MIDEDUC-2023-00012-A" and is focused on keeping track of Ecuadorian "Bachillerato" students. 
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With
 
 ### Tech Stack <a name="tech-stack"></a>
   <ul>
